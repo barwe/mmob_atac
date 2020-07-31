@@ -1,0 +1,2 @@
+ID	chr	start	end	strand	AA_length	method	N_cnt	MetID	Met_AA_length	HMM_profile	Viral_BLAST	NR_BLAST	EVE_BLAST	RetroTector	Repbase
+Mmus38.chr19.46295922.46296239.+	chr19	46295922	46296239	+	106	7	0	Mmus38.chr19.46296189.46296239.+.M	17	pol,RVT_thumb	NP_056891.1(RT-IN [Mason-Pfizer monkey virus])|NP_954565.2(RT-IN [Mason-Pfizer monkey virus])	CDQ07323.1(Protein Bm11589, isoform b, partial [Brugia malayi])	-	Pol|b|HERV-K10	MYSERV6-int|LTR/ERVK

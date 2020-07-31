@@ -1,0 +1,2 @@
+ID	chr	start	end	strand	AA_length	method	N_cnt	MetID	Met_AA_length	HMM_profile	Viral_BLAST	NR_BLAST	EVE_BLAST	RetroTector	Repbase
+Mmus38.chr18.6548590.6548886.+	chr18	6548590	6548886	+	99	7	0	Mmus38.chr18.6548674.6548886.+.M	71	RT,RT_gammaretroviridae	YP_008169843.1(gag-pol polyprotein [Koala retrovirus])	-	-	Pol|c|GaLV_U26927	MuRRS-int|LTR/ERV1

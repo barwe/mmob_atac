@@ -1,0 +1,33 @@
+ctypes(11): EX IN OSN OEC Purk Gran OLI OPC AST MG End
+
+AST: C13
+Gfap, Aqp4, Dio2, Slc6a11, ...
+
+End: C20, C21
+Cdh5, Edn3, Igf2, Pltp, Tbx18, ...
+
+EX: C6, C11
+Neurod6, Cdhr1, Slc17a7, Coro6, ...
+
+IN: C1, C2, C3, C4, C8, C9, C12, C18
+
+OSN: C19
+Omp
+
+OEC: C10
+Fabp7, Gfap, Ngfr, S100b
+
+OPC: C16
+Tnr, Neu4, Epn2, Emid1, C1ql1, ...
+
+OLI: C14, C15
+...
+
+Gran: C5
+Grm4
+
+Purk: C7
+Calb1, Pcp2
+
+MG: C17
+Aif1, C1qa, Cx3cr1, Itgam, ...

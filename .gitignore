@@ -1,0 +1,13 @@
+_MANUSCRIPT/
+_REFERENCE/
+Mmus38.txt
+*.pdf
+*.gtf
+*.svg
+output_*/
+_OEC_GRN_/
+*.zip
+try/
+/Data/Coembedding/
+/Data/cell_peak_dgCMatrix.rds
+/Data/xsp.rds

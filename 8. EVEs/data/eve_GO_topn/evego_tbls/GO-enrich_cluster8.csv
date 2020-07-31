@@ -1,0 +1,10 @@
+"ID", "Description", "GeneRatio", "BgRatio", "pvalue", "p.adjust", "qvalue", "geneID", "Count"
+"GO:0098926", "postsynaptic signal transduction", "1/2", "15/23210", 0.00129215647505176, 0.00581470413773294, NA, "Kpna1", 1
+"GO:0099527", "postsynapse to nucleus signaling pathway", "1/2", "15/23210", 0.00129215647505176, 0.00581470413773294, NA, "Kpna1", 1
+"GO:0006606", "protein import into nucleus", "1/2", "151/23210", 0.0129695857597621, 0.0278421167864338, NA, "Kpna1", 1
+"GO:0051170", "import into nucleus", "1/2", "155/23210", 0.0133119999857431, 0.0278421167864338, NA, "Kpna1", 1
+"GO:0017038", "protein import", "1/2", "209/23210", 0.0179287778335705, 0.0278421167864338, NA, "Kpna1", 1
+"GO:0034504", "protein localization to nucleus", "1/2", "272/23210", 0.0233013352302138, 0.0278421167864338, NA, "Kpna1", 1
+"GO:0006913", "nucleocytoplasmic transport", "1/2", "289/23210", 0.0247485482546078, 0.0278421167864338, NA, "Kpna1", 1
+"GO:0051169", "nuclear transport", "1/2", "289/23210", 0.0247485482546078, 0.0278421167864338, NA, "Kpna1", 1
+"GO:0072594", "establishment of protein localization to organelle", "1/2", "374/23210", 0.031968518504527, 0.031968518504527, NA, "Kpna1", 1

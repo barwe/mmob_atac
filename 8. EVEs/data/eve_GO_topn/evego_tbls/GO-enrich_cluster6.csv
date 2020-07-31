@@ -1,0 +1,26 @@
+"ID", "Description", "GeneRatio", "BgRatio", "pvalue", "p.adjust", "qvalue", "geneID", "Count"
+"GO:2001014", "regulation of skeletal muscle cell differentiation", "1/2", "31/23210", 0.00266953594734021, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0097009", "energy homeostasis", "1/2", "39/23210", 0.0033578692572519, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0048512", "circadian behavior", "1/2", "61/23210", 0.00524956064433602, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0007622", "rhythmic behavior", "1/2", "63/23210", 0.00542144348205875, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0048641", "regulation of skeletal muscle tissue development", "1/2", "70/23210", 0.00602291646172937, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0035914", "skeletal muscle cell differentiation", "1/2", "88/23210", 0.00756872589261515, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0042752", "regulation of circadian rhythm", "1/2", "122/23210", 0.0104853060594001, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0055088", "lipid homeostasis", "1/2", "141/23210", 0.0121132903006826, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0050728", "negative regulation of inflammatory response", "1/2", "149/23210", 0.0127983563701323, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0009755", "hormone-mediated signaling pathway", "1/2", "158/23210", 0.0135687716711096, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0016202", "regulation of striated muscle tissue development", "1/2", "176/23210", 0.0151087000691633, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:1901861", "regulation of muscle tissue development", "1/2", "179/23210", 0.015365237849815, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0048634", "regulation of muscle organ development", "1/2", "180/23210", 0.0154507430178189, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0007519", "skeletal muscle tissue development", "1/2", "197/23210", 0.0169037628195796, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0060538", "skeletal muscle organ development", "1/2", "206/23210", 0.0176725742025116, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0007623", "circadian rhythm", "1/2", "208/23210", 0.0178433803359908, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0031348", "negative regulation of defense response", "1/2", "220/23210", 0.0188679052639125, 0.0277469195057536, NA, "Nr1d2", 1
+"GO:0048511", "rhythmic process", "1/2", "291/23210", 0.024918738067727, 0.0346093584273987, NA, "Nr1d2", 1
+"GO:0032102", "negative regulation of response to external stimulus", "1/2", "336/23210", 0.0287440826051953, 0.03603823247351, NA, "Nr1d2", 1
+"GO:0019216", "regulation of lipid metabolic process", "1/2", "338/23210", 0.0289139234176286, 0.03603823247351, NA, "Nr1d2", 1
+"GO:0050727", "regulation of inflammatory response", "1/2", "354/23210", 0.0302721152777484, 0.03603823247351, NA, "Nr1d2", 1
+"GO:0007517", "muscle organ development", "1/2", "424/23210", 0.036203029218282, 0.0411398059298659, NA, "Nr1d2", 1
+"GO:0014706", "striated muscle tissue development", "1/2", "449/23210", 0.0383168038502348, 0.0414409317546055, NA, "Nr1d2", 1
+"GO:0060537", "muscle tissue development", "1/2", "472/23210", 0.0402594270607965, 0.0414409317546055, NA, "Nr1d2", 1
+"GO:0048871", "multicellular organismal homeostasis", "1/2", "486/23210", 0.0414409317546055, 0.0414409317546055, NA, "Nr1d2", 1

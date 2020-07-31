@@ -1,0 +1,170 @@
+"ID", "Description", "GeneRatio", "BgRatio", "pvalue", "p.adjust", "qvalue", "geneID", "Count"
+"GO:2000347", "positive regulation of hepatocyte proliferation", "1/2", "10/23210", 0.000861530469365657, 0.0177181781963731, NA, "Ptn", 1
+"GO:1900272", "negative regulation of long-term synaptic potentiation", "1/2", "12/23210", 0.00103379200996001, 0.0177181781963731, NA, "Ptn", 1
+"GO:1904396", "regulation of neuromuscular junction development", "1/2", "13/23210", 0.00111991721109694, 0.0177181781963731, NA, "Ptn", 1
+"GO:0048680", "positive regulation of axon regeneration", "1/2", "14/23210", 0.00120603869946101, 0.0177181781963731, NA, "Ptn", 1
+"GO:0071340", "skeletal muscle acetylcholine-gated channel clustering", "1/2", "14/23210", 0.00120603869946101, 0.0177181781963731, NA, "Ptn", 1
+"GO:0070572", "positive regulation of neuron projection regeneration", "1/2", "15/23210", 0.00129215647505176, 0.0177181781963731, NA, "Ptn", 1
+"GO:2000647", "negative regulation of stem cell proliferation", "1/2", "16/23210", 0.00137827053786932, 0.0177181781963731, NA, "Ptn", 1
+"GO:0060253", "negative regulation of glial cell proliferation", "1/2", "17/23210", 0.00146438088791312, 0.0177181781963731, NA, "Ptn", 1
+"GO:0045837", "negative regulation of membrane potential", "1/2", "18/23210", 0.00155048752518394, 0.0177181781963731, NA, "Ptn", 1
+"GO:1903909", "regulation of receptor clustering", "1/2", "18/23210", 0.00155048752518394, 0.0177181781963731, NA, "Ptn", 1
+"GO:2000345", "regulation of hepatocyte proliferation", "1/2", "19/23210", 0.00163659044968167, 0.0177181781963731, NA, "Ptn", 1
+"GO:0002523", "leukocyte migration involved in inflammatory response", "1/2", "20/23210", 0.00172268966140621, 0.0177181781963731, NA, "Ptn", 1
+"GO:0046697", "decidualization", "1/2", "20/23210", 0.00172268966140621, 0.0177181781963731, NA, "Ptn", 1
+"GO:0140058", "neuron projection arborization", "1/2", "21/23210", 0.0018087851603571, 0.0177181781963731, NA, "Ptn", 1
+"GO:1901626", "regulation of postsynaptic membrane organization", "1/2", "21/23210", 0.0018087851603571, 0.0177181781963731, NA, "Ptn", 1
+"GO:0010996", "response to auditory stimulus", "1/2", "22/23210", 0.00189487694653523, 0.0177181781963731, NA, "Ptn", 1
+"GO:1905809", "negative regulation of synapse organization", "1/2", "25/23210", 0.00215313002842943, 0.0177181781963731, NA, "Ptn", 1
+"GO:0072574", "hepatocyte proliferation", "1/2", "26/23210", 0.0022392069635141, 0.0177181781963731, NA, "Ptn", 1
+"GO:0072575", "epithelial cell proliferation involved in liver morphogenesis", "1/2", "26/23210", 0.0022392069635141, 0.0177181781963731, NA, "Ptn", 1
+"GO:2000738", "positive regulation of stem cell differentiation", "1/2", "26/23210", 0.0022392069635141, 0.0177181781963731, NA, "Ptn", 1
+"GO:0060219", "camera-type eye photoreceptor cell differentiation", "1/2", "27/23210", 0.00232528018582612, 0.0177181781963731, NA, "Ptn", 1
+"GO:0072576", "liver morphogenesis", "1/2", "28/23210", 0.00241134969536438, 0.0177181781963731, NA, "Ptn", 1
+"GO:2000178", "negative regulation of neural precursor cell proliferation", "1/2", "28/23210", 0.00241134969536438, 0.0177181781963731, NA, "Ptn", 1
+"GO:0048714", "positive regulation of oligodendrocyte differentiation", "1/2", "30/23210", 0.00258347757612143, 0.0180460630040198, NA, "Ptn", 1
+"GO:0001893", "maternal placenta development", "1/2", "31/23210", 0.00266953594734021, 0.0180460630040198, NA, "Ptn", 1
+"GO:2000036", "regulation of stem cell population maintenance", "1/2", "33/23210", 0.00284164155145727, 0.0183251631317126, NA, "Ptn", 1
+"GO:0048679", "regulation of axon regeneration", "1/2", "34/23210", 0.00292768878435645, 0.0183251631317126, NA, "Ptn", 1
+"GO:0070570", "regulation of neuron projection regeneration", "1/2", "38/23210", 0.00327184058821939, 0.0183832607191299, NA, "Ptn", 1
+"GO:0060251", "regulation of glial cell proliferation", "1/2", "39/23210", 0.0033578692572519, 0.0183832607191299, NA, "Ptn", 1
+"GO:1902692", "regulation of neuroblast proliferation", "1/2", "39/23210", 0.0033578692572519, 0.0183832607191299, NA, "Ptn", 1
+"GO:0030501", "positive regulation of bone mineralization", "1/2", "41/23210", 0.00352991545699743, 0.0183832607191299, NA, "Ptn", 1
+"GO:0010464", "regulation of mesenchymal cell proliferation", "1/2", "45/23210", 0.0038739633032091, 0.0183832607191299, NA, "Ptn", 1
+"GO:0060135", "maternal process involved in female pregnancy", "1/2", "45/23210", 0.0038739633032091, 0.0183832607191299, NA, "Ptn", 1
+"GO:0001941", "postsynaptic membrane organization", "1/2", "46/23210", 0.00395996598282899, 0.0183832607191299, NA, "Ptn", 1
+"GO:0070169", "positive regulation of biomineral tissue development", "1/2", "49/23210", 0.0042179517450488, 0.0183832607191299, NA, "Ptn", 1
+"GO:0031103", "axon regeneration", "1/2", "51/23210", 0.00438992368932956, 0.0183832607191299, NA, "Ptn", 1
+"GO:0048713", "regulation of oligodendrocyte differentiation", "1/2", "52/23210", 0.0044759040923098, 0.0183832607191299, NA, "Ptn", 1
+"GO:1900271", "regulation of long-term synaptic potentiation", "1/2", "52/23210", 0.0044759040923098, 0.0183832607191299, NA, "Ptn", 1
+"GO:0014014", "negative regulation of gliogenesis", "1/2", "53/23210", 0.00456188078251663, 0.0183832607191299, NA, "Ptn", 1
+"GO:0014009", "glial cell proliferation", "1/2", "54/23210", 0.0046478537599508, 0.0183832607191299, NA, "Ptn", 1
+"GO:0045687", "positive regulation of glial cell differentiation", "1/2", "54/23210", 0.0046478537599508, 0.0183832607191299, NA, "Ptn", 1
+"GO:0007528", "neuromuscular junction development", "1/2", "55/23210", 0.00473382302461145, 0.0183832607191299, NA, "Ptn", 1
+"GO:0031641", "regulation of myelination", "1/2", "56/23210", 0.00481978857649845, 0.0183832607191299, NA, "Ptn", 1
+"GO:0001754", "eye photoreceptor cell differentiation", "1/2", "57/23210", 0.00490575041561259, 0.0183832607191299, NA, "Ptn", 1
+"GO:0010463", "mesenchymal cell proliferation", "1/2", "57/23210", 0.00490575041561259, 0.0183832607191299, NA, "Ptn", 1
+"GO:0031102", "neuron projection regeneration", "1/2", "60/23210", 0.00516361365631524, 0.0183832607191299, NA, "Ptn", 1
+"GO:0042698", "ovulation cycle", "1/2", "61/23210", 0.00524956064433602, 0.0183832607191299, NA, "Ptn", 1
+"GO:0042246", "tissue regeneration", "1/2", "63/23210", 0.00542144348205875, 0.0183832607191299, NA, "Ptn", 1
+"GO:0060042", "retina morphogenesis in camera-type eye", "1/2", "64/23210", 0.00550737933176004, 0.0183832607191299, NA, "Ptn", 1
+"GO:2000736", "regulation of stem cell differentiation", "1/2", "64/23210", 0.00550737933176004, 0.0183832607191299, NA, "Ptn", 1
+"GO:0003407", "neural retina development", "1/2", "65/23210", 0.0055933114686878, 0.0183832607191299, NA, "Ptn", 1
+"GO:0043113", "receptor clustering", "1/2", "67/23210", 0.00576516460422416, 0.0183832607191299, NA, "Ptn", 1
+"GO:0048678", "response to axon injury", "1/2", "67/23210", 0.00576516460422416, 0.0183832607191299, NA, "Ptn", 1
+"GO:0007405", "neuroblast proliferation", "1/2", "69/23210", 0.0059370028886675, 0.0185806201515705, NA, "Ptn", 1
+"GO:1903036", "positive regulation of response to wounding", "1/2", "73/23210", 0.00628063490427533, 0.0192986781604096, NA, "Ptn", 1
+"GO:0051781", "positive regulation of cell division", "1/2", "79/23210", 0.00679597154448919, 0.0203024965876075, NA, "Ptn", 1
+"GO:0030500", "regulation of bone mineralization", "1/2", "80/23210", 0.0068818479898185, 0.0203024965876075, NA, "Ptn", 1
+"GO:0046530", "photoreceptor cell differentiation", "1/2", "81/23210", 0.00696772072237417, 0.0203024965876075, NA, "Ptn", 1
+"GO:0002690", "positive regulation of leukocyte chemotaxis", "1/2", "87/23210", 0.00748287914947221, 0.0208648733545884, NA, "Ptn", 1
+"GO:0072091", "regulation of stem cell proliferation", "1/2", "87/23210", 0.00748287914947221, 0.0208648733545884, NA, "Ptn", 1
+"GO:0007229", "integrin-mediated signaling pathway", "1/2", "89/23210", 0.00765456892298511, 0.0208648733545884, NA, "Ptn", 1
+"GO:0014015", "positive regulation of gliogenesis", "1/2", "89/23210", 0.00765456892298511, 0.0208648733545884, NA, "Ptn", 1
+"GO:0045685", "regulation of glial cell differentiation", "1/2", "91/23210", 0.00782624384540542, 0.020994209680532, NA, "Ptn", 1
+"GO:0048477", "oogenesis", "1/2", "95/23210", 0.00816954913696699, 0.0213808696382647, NA, "Ptn", 1
+"GO:0070167", "regulation of biomineral tissue development", "1/2", "97/23210", 0.00834117950610791, 0.0213808696382647, NA, "Ptn", 1
+"GO:0045778", "positive regulation of ossification", "1/2", "100/23210", 0.00859859721402056, 0.0213808696382647, NA, "Ptn", 1
+"GO:0110110", "positive regulation of animal organ morphogenesis", "1/2", "101/23210", 0.00868439569111146, 0.0213808696382647, NA, "Ptn", 1
+"GO:0046849", "bone remodeling", "1/2", "102/23210", 0.00877019045542915, 0.0213808696382647, NA, "Ptn", 1
+"GO:1905477", "positive regulation of protein localization to membrane", "1/2", "102/23210", 0.00877019045542915, 0.0213808696382647, NA, "Ptn", 1
+"GO:0048709", "oligodendrocyte differentiation", "1/2", "103/23210", 0.00885598150697353, 0.0213808696382647, NA, "Ptn", 1
+"GO:1900006", "positive regulation of dendrite development", "1/2", "108/23210", 0.00928488107309711, 0.0221006324134283, NA, "Ptn", 1
+"GO:0002688", "regulation of leukocyte chemotaxis", "1/2", "111/23210", 0.00954217625949183, 0.0221721936339715, NA, "Ptn", 1
+"GO:0016525", "negative regulation of angiogenesis", "1/2", "112/23210", 0.00962793389607741, 0.0221721936339715, NA, "Ptn", 1
+"GO:2000177", "regulation of neural precursor cell proliferation", "1/2", "113/23210", 0.00971368781988913, 0.0221721936339715, NA, "Ptn", 1
+"GO:0030282", "bone mineralization", "1/2", "116/23210", 0.00997092731468541, 0.0221721936339715, NA, "Ptn", 1
+"GO:2000181", "negative regulation of blood vessel morphogenesis", "1/2", "116/23210", 0.00997092731468541, 0.0221721936339715, NA, "Ptn", 1
+"GO:0001889", "liver development", "1/2", "121/23210", 0.0103995855505474, 0.0228250643901625, NA, "Ptn", 1
+"GO:0061008", "hepaticobiliary system development", "1/2", "124/23210", 0.0106567359387855, 0.0229496807825052, NA, "Ptn", 1
+"GO:0099175", "regulation of postsynapse organization", "1/2", "125/23210", 0.0107424453093188, 0.0229496807825052, NA, "Ptn", 1
+"GO:0010811", "positive regulation of cell-substrate adhesion", "1/2", "127/23210", 0.0109138529120646, 0.0229496807825052, NA, "Ptn", 1
+"GO:1901343", "negative regulation of vasculature development", "1/2", "128/23210", 0.0109995511442776, 0.0229496807825052, NA, "Ptn", 1
+"GO:0048593", "camera-type eye morphogenesis", "1/2", "137/23210", 0.0117706681593996, 0.0236521254309363, NA, "Ptn", 1
+"GO:0050921", "positive regulation of chemotaxis", "1/2", "140/23210", 0.0120276403345216, 0.0236521254309363, NA, "Ptn", 1
+"GO:0072089", "stem cell proliferation", "1/2", "140/23210", 0.0120276403345216, 0.0236521254309363, NA, "Ptn", 1
+"GO:0050680", "negative regulation of epithelial cell proliferation", "1/2", "142/23210", 0.0121989365540702, 0.0236521254309363, NA, "Ptn", 1
+"GO:0002687", "positive regulation of leukocyte migration", "1/2", "144/23210", 0.0123702179225257, 0.0236521254309363, NA, "Ptn", 1
+"GO:0007613", "memory", "1/2", "144/23210", 0.0123702179225257, 0.0236521254309363, NA, "Ptn", 1
+"GO:0007292", "female gamete generation", "1/2", "145/23210", 0.0124558530375937, 0.0236521254309363, NA, "Ptn", 1
+"GO:0031099", "regeneration", "1/2", "145/23210", 0.0124558530375937, 0.0236521254309363, NA, "Ptn", 1
+"GO:0008360", "regulation of cell shape", "1/2", "150/23210", 0.0128839729213339, 0.0236672980837547, NA, "Ptn", 1
+"GO:0014013", "regulation of gliogenesis", "1/2", "150/23210", 0.0128839729213339, 0.0236672980837547, NA, "Ptn", 1
+"GO:0022612", "gland morphogenesis", "1/2", "150/23210", 0.0128839729213339, 0.0236672980837547, NA, "Ptn", 1
+"GO:0051302", "regulation of cell division", "1/2", "156/23210", 0.013397594260305, 0.0238932715955097, NA, "Ptn", 1
+"GO:0042552", "myelination", "1/2", "159/23210", 0.0136543548073518, 0.0238932715955097, NA, "Ptn", 1
+"GO:0007565", "female pregnancy", "1/2", "160/23210", 0.0137399342308206, 0.0238932715955097, NA, "Ptn", 1
+"GO:0031214", "biomineral tissue development", "1/2", "160/23210", 0.0137399342308206, 0.0238932715955097, NA, "Ptn", 1
+"GO:0007272", "ensheathment of neurons", "1/2", "162/23210", 0.0139110819394392, 0.0238932715955097, NA, "Ptn", 1
+"GO:0008366", "axon ensheathment", "1/2", "162/23210", 0.0139110819394392, 0.0238932715955097, NA, "Ptn", 1
+"GO:0060041", "retina development in camera-type eye", "1/2", "163/23210", 0.0139966502245885, 0.0238932715955097, NA, "Ptn", 1
+"GO:0019827", "stem cell population maintenance", "1/2", "165/23210", 0.0141677756565676, 0.0239435408595992, NA, "Ptn", 1
+"GO:0098727", "maintenance of cell number", "1/2", "169/23210", 0.014509981967246, 0.02408834583461, NA, "Ptn", 1
+"GO:0001890", "placenta development", "1/2", "170/23210", 0.0145955242629826, 0.02408834583461, NA, "Ptn", 1
+"GO:0007612", "learning", "1/2", "171/23210", 0.0146810628459457, 0.02408834583461, NA, "Ptn", 1
+"GO:0009612", "response to mechanical stimulus", "1/2", "176/23210", 0.0151087000691633, 0.0242684597814836, NA, "Ptn", 1
+"GO:0048592", "eye morphogenesis", "1/2", "176/23210", 0.0151087000691633, 0.0242684597814836, NA, "Ptn", 1
+"GO:0048813", "dendrite morphogenesis", "1/2", "178/23210", 0.0152797289690377, 0.0242684597814836, NA, "Ptn", 1
+"GO:1903034", "regulation of response to wounding", "1/2", "179/23210", 0.015365237849815, 0.0242684597814836, NA, "Ptn", 1
+"GO:0061351", "neural precursor cell proliferation", "1/2", "183/23210", 0.0157072362451915, 0.0245260421248654, NA, "Ptn", 1
+"GO:0051668", "localization within membrane", "1/2", "185/23210", 0.0158782131662403, 0.0245260421248654, NA, "Ptn", 1
+"GO:1905475", "regulation of protein localization to membrane", "1/2", "186/23210", 0.0159636960576047, 0.0245260421248654, NA, "Ptn", 1
+"GO:0044706", "multi-multicellular organism process", "1/2", "190/23210", 0.0163055904953302, 0.0246790781960309, NA, "Ptn", 1
+"GO:0050773", "regulation of dendrite development", "1/2", "191/23210", 0.0163910548228284, 0.0246790781960309, NA, "Ptn", 1
+"GO:0048771", "tissue remodeling", "1/2", "193/23210", 0.0165619723395054, 0.0246790781960309, NA, "Ptn", 1
+"GO:0099173", "postsynapse organization", "1/2", "194/23210", 0.0166474255286836, 0.0246790781960309, NA, "Ptn", 1
+"GO:0050679", "positive regulation of epithelial cell proliferation", "1/2", "199/23210", 0.0170746357829774, 0.0250922908462885, NA, "Ptn", 1
+"GO:0002685", "regulation of leukocyte migration", "1/2", "201/23210", 0.0172454938952818, 0.0251249005888158, NA, "Ptn", 1
+"GO:2000027", "regulation of animal organ morphogenesis", "1/2", "209/23210", 0.0179287778335705, 0.0257044195435238, NA, "Ptn", 1
+"GO:0010810", "regulation of cell-substrate adhesion", "1/2", "211/23210", 0.0180995616904103, 0.0257044195435238, NA, "Ptn", 1
+"GO:0030595", "leukocyte chemotaxis", "1/2", "211/23210", 0.0180995616904103, 0.0257044195435238, NA, "Ptn", 1
+"GO:0050920", "regulation of chemotaxis", "1/2", "213/23210", 0.0182703306961569, 0.025730715730421, NA, "Ptn", 1
+"GO:0048863", "stem cell differentiation", "1/2", "228/23210", 0.0195506248606665, 0.0273062446401044, NA, "Ptn", 1
+"GO:0030278", "regulation of ossification", "1/2", "233/23210", 0.0199772039435075, 0.0276733398889572, NA, "Ptn", 1
+"GO:0010001", "glial cell differentiation", "1/2", "239/23210", 0.0204889763213988, 0.0281515203115154, NA, "Ptn", 1
+"GO:0060291", "long-term synaptic potentiation", "1/2", "245/23210", 0.0210006150394532, 0.0286218059811902, NA, "Ptn", 1
+"GO:0050807", "regulation of synapse organization", "1/2", "266/23210", 0.0227902979814266, 0.0307964388918848, NA, "Ptn", 1
+"GO:0030336", "negative regulation of cell migration", "1/2", "268/23210", 0.0229606585821153, 0.0307964388918848, NA, "Ptn", 1
+"GO:0050803", "regulation of synapse structure or activity", "1/2", "276/23210", 0.0236419524739406, 0.0314605509298895, NA, "Ptn", 1
+"GO:2000146", "negative regulation of cell motility", "1/2", "281/23210", 0.0240676404912006, 0.0317768065860383, NA, "Ptn", 1
+"GO:0048511", "rhythmic process", "1/2", "291/23210", 0.024918738067727, 0.0324763751536753, NA, "Ptn", 1
+"GO:0007611", "learning or memory", "1/2", "292/23210", 0.0250038274051265, 0.0324763751536753, NA, "Ptn", 1
+"GO:0016358", "dendrite development", "1/2", "294/23210", 0.0251739949416063, 0.0324763751536753, NA, "Ptn", 1
+"GO:1903829", "positive regulation of cellular protein localization", "1/2", "297/23210", 0.0254292184005267, 0.0325002946120209, NA, "Ptn", 1
+"GO:0060326", "cell chemotaxis", "1/2", "299/23210", 0.0255993488092737, 0.0325002946120209, NA, "Ptn", 1
+"GO:0090596", "sensory organ morphogenesis", "1/2", "301/23210", 0.0257694643669278, 0.0325002946120209, NA, "Ptn", 1
+"GO:0045765", "regulation of angiogenesis", "1/2", "307/23210", 0.0262797219333325, 0.032898318568394, NA, "Ptn", 1
+"GO:0032103", "positive regulation of response to external stimulus", "1/2", "312/23210", 0.0267048344707383, 0.0331846840114322, NA, "Ptn", 1
+"GO:0051271", "negative regulation of cellular component movement", "1/2", "316/23210", 0.0270448576707444, 0.0333619047179256, NA, "Ptn", 1
+"GO:0042063", "gliogenesis", "1/2", "323/23210", 0.0276397553289852, 0.0338486858739022, NA, "Ptn", 1
+"GO:0050890", "cognition", "1/2", "326/23210", 0.0278946557766329, 0.0339150850809421, NA, "Ptn", 1
+"GO:0040013", "negative regulation of locomotion", "1/2", "332/23210", 0.0284043564270493, 0.0339965723971795, NA, "Ptn", 1
+"GO:0050768", "negative regulation of neurogenesis", "1/2", "337/23210", 0.0288290048677984, 0.0339965723971795, NA, "Ptn", 1
+"GO:0007281", "germ cell development", "1/2", "339/23210", 0.0289988382546856, 0.0339965723971795, NA, "Ptn", 1
+"GO:0031589", "cell-substrate adhesion", "1/2", "339/23210", 0.0289988382546856, 0.0339965723971795, NA, "Ptn", 1
+"GO:0050900", "leukocyte migration", "1/2", "340/23210", 0.0290837493789693, 0.0339965723971795, NA, "Ptn", 1
+"GO:1901342", "regulation of vasculature development", "1/2", "341/23210", 0.0291686567904794, 0.0339965723971795, NA, "Ptn", 1
+"GO:0043010", "camera-type eye development", "1/2", "348/23210", 0.0297629047134012, 0.0344123737065154, NA, "Ptn", 1
+"GO:0050806", "positive regulation of synaptic transmission", "1/2", "350/23210", 0.0299326564192767, 0.0344123737065154, NA, "Ptn", 1
+"GO:0050678", "regulation of epithelial cell proliferation", "1/2", "358/23210", 0.0306115147318482, 0.0344124635400415, NA, "Ptn", 1
+"GO:0042060", "wound healing", "1/2", "360/23210", 0.0307811921822584, 0.0344124635400415, NA, "Ptn", 1
+"GO:0048167", "regulation of synaptic plasticity", "1/2", "361/23210", 0.0308660253383036, 0.0344124635400415, NA, "Ptn", 1
+"GO:0051961", "negative regulation of nervous system development", "1/2", "361/23210", 0.0308660253383036, 0.0344124635400415, NA, "Ptn", 1
+"GO:0010976", "positive regulation of neuron projection development", "1/2", "362/23210", 0.0309508547815758, 0.0344124635400415, NA, "Ptn", 1
+"GO:0001503", "ossification", "1/2", "381/23210", 0.0325619087768271, 0.0359670757077371, NA, "Ptn", 1
+"GO:0010721", "negative regulation of cell development", "1/2", "387/23210", 0.0330703842120703, 0.0362915255314278, NA, "Ptn", 1
+"GO:0001654", "eye development", "1/2", "397/23210", 0.033917546248949, 0.0369810665553057, NA, "Ptn", 1
+"GO:0150063", "visual system development", "1/2", "400/23210", 0.0341716224609341, 0.0370192576660119, NA, "Ptn", 1
+"GO:0048880", "sensory system development", "1/2", "403/23210", 0.0344256652579601, 0.0370569262967851, NA, "Ptn", 1
+"GO:1903706", "regulation of hemopoiesis", "1/2", "407/23210", 0.0347643370085026, 0.0371846389521325, NA, "Ptn", 1
+"GO:0045785", "positive regulation of cell adhesion", "1/2", "411/23210", 0.0351029493546727, 0.0373106820184886, NA, "Ptn", 1
+"GO:0050673", "epithelial cell proliferation", "1/2", "425/23210", 0.036287624756839, 0.0383288036494112, NA, "Ptn", 1
+"GO:0022412", "cellular process involved in reproduction in multicellular organism", "1/2", "436/23210", 0.0372179306379331, 0.0390672688062776, NA, "Ptn", 1
+"GO:0042391", "regulation of membrane potential", "1/2", "439/23210", 0.0374715724554479, 0.0390907144751277, NA, "Ptn", 1
+"GO:0048608", "reproductive structure development", "1/2", "449/23210", 0.0383168038502348, 0.0395918783280866, NA, "Ptn", 1
+"GO:0050808", "synapse organization", "1/2", "451/23210", 0.0384858055759136, 0.0395918783280866, NA, "Ptn", 1
+"GO:0061458", "reproductive system development", "1/2", "453/23210", 0.0386547924504987, 0.0395918783280866, NA, "Ptn", 1
+"GO:0045666", "positive regulation of neuron differentiation", "1/2", "461/23210", 0.0393305914379107, 0.0400413852590778, NA, "Ptn", 1
+"GO:0031346", "positive regulation of cell projection organization", "1/2", "466/23210", 0.039752845139912, 0.0400744114368856, NA, "Ptn", 1
+"GO:0048732", "gland development", "1/2", "467/23210", 0.0398372847419928, 0.0400744114368856, NA, "Ptn", 1
+"GO:0009611", "response to wounding", "1/2", "495/23210", 0.0422000862143077, 0.0422000862143077, NA, "Ptn", 1

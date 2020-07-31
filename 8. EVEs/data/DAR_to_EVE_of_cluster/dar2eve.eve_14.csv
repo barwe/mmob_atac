@@ -1,0 +1,3 @@
+ID	chr	start	end	strand	AA_length	method	N_cnt	MetID	Met_AA_length	HMM_profile	Viral_BLAST	NR_BLAST	EVE_BLAST	RetroTector	Repbase
+Mmus38.chr15.3213555.3213899.-	chr15	3213555	3213899	-	115	6	0	Mmus38.chr15.3213555.3213692.-.M	46	pol,RVT_1	YP_073558.1(RNA-dependent DNA polymerase [Lymphocystis disease virus - isolate China])	XP_728610.1(reverse transcriptase [Plasmodium yoelii yoelii 17XNL])	-	.	L1Md_F3|LINE/L1
+Mmus38.chr9.25167267.25167566.+	chr9	25167267	25167566	+	100	6	0	Mmus38.chr9.25167408.25167566.+.M	53	pol,RVT_1	YP_073558.1(RNA-dependent DNA polymerase [Lymphocystis disease virus - isolate China])	-	-	.	L1_Mus3|LINE/L1 L1Md_F2|LINE/L1
