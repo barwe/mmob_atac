@@ -1,0 +1,11 @@
+IN:Meis2,Nxph1,Gad1,Gad2,Slc6a1,Scgn,Htr1f,Vip,Pvalb,Calb2,Apold1
+EX:Chat,Neurod1,Neurod2,Neurod6,Lmx1b,Tle4,Rorb,Slc17a6,Slc17a7,Gls,Eomes,Coro6,Cdhr1
+Purk:Pcp2,Slc1a6,Car8,Ppp1r17,Atp2a3
+Gran:Cbln3,Gabra6,Grm4
+OSN:Omp
+OEC:S100b,Gfap,Mgst1,Fabp7,Ngfr
+AST:Slc6a11,Slc1a2,Islr,Gldc,Gfap,Fgfr3,Dio2,Vim
+OPC:Sapcd2,Tnr,Neu4,Epn2,Emid1,C1ql1
+OLI:Anln,Cnp,Mal,Gpr17,Ptgds,Olig2,Mobp,Enpp6,Opalin,Ppp1r14a,Mog,Hapln2,Ugt8a,Gjb1
+MG:Cx3cr1,C1qa,Itgam,Aif1,Tmem119
+End:Cdh5,Tbx18,Pglyrp1
